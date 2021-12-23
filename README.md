@@ -1,2 +1,2 @@
 # Bear-Classifier-fastai-
-Demo project for fastai course lesson 2.
+Demo project for fastai course lesson 2
